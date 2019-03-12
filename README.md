@@ -1,6 +1,7 @@
 # Multiple Classification Algorithm
 
 All 31 sklearn classification algorithm
+
 1 AdaBoostClassifier
 2 BaggingClassifier
 3 BernoulliNB
