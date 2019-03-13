@@ -2,13 +2,13 @@
 
 All 31 sklearn classification algorithm
 
-n\1 AdaBoostClassifier
-n\2 BaggingClassifier
-n\3 BernoulliNB
-n\4 CalibratedClassifierCV
-n\5 ComplementNB
-n\6 DecisionTreeClassifier
-n\7 ExtraTreeClassifier
+<br /> 1 AdaBoostClassifier
+<br /> 2 BaggingClassifier
+<br /> 3 BernoulliNB
+<br /> 4 CalibratedClassifierCV
+<br /> 5 ComplementNB
+<br /> 6 DecisionTreeClassifier
+<br /> 7 ExtraTreeClassifier
 8 ExtraTreesClassifier
 9 GaussianNB
 10 GaussianProcessClassifier
